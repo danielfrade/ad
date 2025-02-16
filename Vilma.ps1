@@ -2,8 +2,10 @@
 Import-Module ActiveDirectory
 
 # Configuração do domínio
-$domain = "vilma.com.br"
-$baseOU = "OU=Departamentos,DC=vilma,DC=com,DC=br"  # Caminho base da OU
+#Digite o dominio respectivo
+$domain = ""
+#Digite sua OU respectiva BASE
+$baseOU = ""  # Caminho base da OU
 
 function Show-Menu {
     Clear-Host
