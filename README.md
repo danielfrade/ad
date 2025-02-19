@@ -64,7 +64,6 @@ O script oferece as seguintes funcionalidades:
 
 - **GerenciamentoAD.ps1**: Script principal com o menu e todas as funcionalidades.
 - **README.md**: Este arquivo, com a documentação do projeto.
-- **Exemplos/**: Pasta com exemplos de arquivos CSV e TXT para criação de usuários.
 
 ---
 
