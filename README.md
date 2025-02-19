@@ -62,7 +62,7 @@ O script oferece as seguintes funcionalidades:
 
 ## Estrutura do Projeto
 
-- **GerenciamentoAD.ps1**: Script principal com o menu e todas as funcionalidades.
+- **ActiveDirectory.ps1**: Script principal com o menu e todas as funcionalidades.
 - **README.md**: Este arquivo, com a documentação do projeto.
 
 ---
