@@ -1,14 +1,3 @@
-Caso queiram melhorar o codigo se sintam a vontade
-
-Simplifique a Gestão do Active Directory com PowerShell 🚀 
-
-Cansado de tarefas repetitivas e demoradas no Active Directory?❗
-
-Apresento um script inovador, desenvolvido com o auxílio da inteligência artificial, que vai revolucionar a forma como você gerencia o AD. Com um menu interativo e intuitivo, este script permite realizar diversas tarefas administrativas de forma rápida, eficiente e segura.
-Descubra o poder da automação
-Com este script, você poderá:
-
-
 # Gerenciamento de Active Directory com PowerShell
 
 Criar e gerenciar usuários de forma ágil, personalizando atributos e permissões em segundos.
