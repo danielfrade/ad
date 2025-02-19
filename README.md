@@ -90,8 +90,3 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 3. Commit suas mudanças (`git commit -m 'Adicionando nova feature'`).
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
-
-Contato vocurca@pm.me
-Linkedin https://www.linkedin.com/in/vocurca/
-
