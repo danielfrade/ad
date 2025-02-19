@@ -51,7 +51,7 @@ O script oferece as seguintes funcionalidades:
    - Navegue até o diretório do script.
    - Execute o script:
      ```powershell
-     .\Vilma.ps1
+     .\ActiveDirectory.ps1
      ```
 
 3. **Siga o Menu**:
