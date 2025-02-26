@@ -76,7 +76,7 @@ O script oferece as seguintes funcionalidades:
 
 ### Inativando um Usuário
 
-1. Execute o script e escolha a opção **2 - Inativar usuário no AD**.
+1. Execute o script e escolha a opção.
 2. Insira o nome do usuário que deseja inativar.
 
 ---
