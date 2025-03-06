@@ -1,4 +1,7 @@
-﻿# Certifique-se de salvar este arquivo com codificação UTF-8 com BOM
+# Script de Gestão de Ativos de Equipamentos no Domínio
+# Autor: Daniel Vocurca Frade
+
+# Certifique-se de salvar este arquivo com codificação UTF-8 com BOM
 Import-Module ActiveDirectory
 
 # Configuração do domínio
