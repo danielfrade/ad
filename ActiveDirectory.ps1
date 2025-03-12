@@ -37,7 +37,7 @@ function Show-Menu {
     Write-Host "18 - Alterar atributos de um usuario" -ForegroundColor White
     Write-Host "19 - Exportar relatorio de usuarios" -ForegroundColor White
     Write-Host "20 - Exportar relatorio de computadores" -ForegroundColor White
-	Write-Host "21 - Exportar relatorio de grupos" -ForegroundColor White
+    Write-Host "21 - Exportar relatorio de grupos" -ForegroundColor White
     Write-Host "0 - Sair do script" -ForegroundColor Red
     Write-Host "==============================================" -ForegroundColor Cyan
 }
